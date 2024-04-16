@@ -1,6 +1,6 @@
 # Getting and Cleaning Data - Course Project
 
-This repository hosts the R code and documentation files for the Data Science's track course "Getting and Cleaning data", from Coursera. The dataset used is: [Human Activity Recognition Using Smartphones](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) 
+This repository hosts the R code and documentation files for the Data Science's track course "Getting and Cleaning Data", from Coursera. The dataset used is: [Human Activity Recognition Using Smartphones](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) 
 
 ## Files
 
